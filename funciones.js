@@ -126,9 +126,7 @@ const precioPorSandwich = (base, pan, queso, tomate, lechuga, cebolla, mayonesa,
     console.log("El sandwich que selecciono tiene un costo de", total);
 }
 //Descomente para probar
-/*
 precioPorSandwich("poll","blanc",false,false,false,false,false,false)
 precioPorSandwich("pollo","blanc",false,false,false,false,false,false)
 precioPorSandwich("pollo","blanco",true,false,false,false,false,false)
 precioPorSandwich("pollo","blanco",true,true,true,true,true,true)
-*/
